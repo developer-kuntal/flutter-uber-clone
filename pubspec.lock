@@ -101,7 +101,7 @@ packages:
       name: google_maps_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.5.11+1"
+    version: "0.5.13"
   google_maps_webservice:
     dependency: "direct main"
     description:
@@ -164,7 +164,7 @@ packages:
       name: pedantic
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.5.0"
+    version: "1.4.0"
   quiver:
     dependency: transitive
     description:
@@ -190,7 +190,7 @@ packages:
       name: source_span
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.5.5"
+    version: "1.5.4"
   stack_trace:
     dependency: transitive
     description:
@@ -241,5 +241,5 @@ packages:
     source: hosted
     version: "2.0.8"
 sdks:
-  dart: ">=2.2.0 <3.0.0"
+  dart: ">=2.1.0 <3.0.0"
   flutter: ">=1.2.0 <2.0.0"

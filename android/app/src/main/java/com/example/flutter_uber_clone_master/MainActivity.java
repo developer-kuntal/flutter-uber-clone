@@ -1,4 +1,4 @@
-package com.santosenoque.uber_clone;
+package com.example.flutter_uber_clone_master;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
